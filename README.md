@@ -49,5 +49,11 @@ pytest
 - The devcontainer is defined in `.devcontainer/devcontainer.json` and `.devcontainer/Dockerfile`.
 - Modify these files to change Python, CUDA, or PyTorch versions as needed.
 
+
+## Works On
+
+- [x] Windows 11 (WSL2)
+- [x] CUDA 11.8
+
 ## License
 MIT License
